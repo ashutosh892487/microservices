@@ -9,4 +9,4 @@ eureka:
   server:
     waitTimeInMsWhenSyncEmpty: 0    #wait time for subsequent sync
   instance:
-    hostname: CGI_Shreelekhya
+    hostname: CGI-shubham

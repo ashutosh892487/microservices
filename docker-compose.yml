@@ -50,7 +50,7 @@ services:
 
   gateway:
     image: zuulgateway:v1
-    build: zuul-master/zuulgateway/
+    build: zuulgateway/
     restart: always
     container_name: zuul-container
     network_mode: host
